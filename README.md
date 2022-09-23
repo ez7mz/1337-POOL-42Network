@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center" id="top">
   <img src="./srcs/assets/1337-banner.png" alt="Banner" width="400px">
 </p>
 
@@ -180,7 +180,7 @@ $ git clone https://github.com/ez7mz/1337-POOL-42NETWORK.git
 
 </div>
 <p align="left">
-    <a href="#">
+    <a href="#top">
         [Back to top]
     </a>
 </p>
