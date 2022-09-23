@@ -52,84 +52,84 @@ My Piscine was in the period between 18, Jul 1022 AND 12, Aug 2022. I reached Lv
             <td>Shell00</td>
             <td></td>
             <td></td>
-            <td ><b>84</b>✔️</td>
+            <td ><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>Shell01</td>
             <td></td>
             <td></td>
-            <td ><b></b>✔️</td>
+            <td ><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>C00</td>
             <td></td>
             <td></td>
-            <td ><b>84</b>✔️</td>
+            <td ><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>C01</td>
             <td></td>
             <td></td>
-            <td ><b>84</b>✔️</td>
+            <td ><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>C02</td>
             <td></td>
             <td></td>
-            <td ><b>84</b>✔️</td>
+            <td ><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>C03</td>
             <td></td>
             <td></td>
-            <td ><b>84</b>✔️</td>
+            <td ><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>C04</td>
             <td></td>
             <td></td>
-            <td ><b>84</b>✔️</td>
+            <td ><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>C05</td>
             <td></td>
             <td></td>
-            <td ><b>84</b>✔️</td>
+            <td ><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>C06</td>
             <td></td>
             <td></td>
-            <td ><b>84</b>✔️</td>
+            <td ><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>c07</td>
             <td></td>
             <td></td>
-            <td ><b>84</b>✔️</td>
+            <td ><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>C08</td>
             <td></td>
             <td></td>
-            <td ><b>84</b>✔️</td>
+            <td ><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>C09</td>
             <td></td>
             <td></td>
-            <td><b>84</b>✔️</td>
+            <td><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
             <td></td>
         </tr>
         <tr>
