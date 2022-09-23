@@ -134,7 +134,7 @@ My Piscine was in the period between 📅 **18, Jul 1022** AND 📅 **12, Aug 20
             <td> <a href="">Subject</a> </td>
             <td> <a href="">Solution</a> </td>
             <td><img src="./srcs/assets/grade/22.png" width="26px"> ❌</td>
-            <td><font size="2">I forget to exclude the negative numbers that's why i got 22. **But i fixed it now**</font></td>
+            <td><font size="2">didn't handel negatives case. **But it now fixed**</font></td>
         </tr>
         <tr>
             <td>Exam00</td>
