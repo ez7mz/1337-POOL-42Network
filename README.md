@@ -47,120 +47,120 @@ My Piscine was in the period between 📅 **18, Jul 1022** AND 📅 **12, Aug 20
         </thead>
         <tr>
             <td>Shell00</td>
-            <td> <a href="">Sub</a> </td>
-            <td> <a href="">Sol</a> </td>
+            <td> <a href="">Subject</a> </td>
+            <td> <a href="">Solution</a> </td>
             <td ><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>Shell01</td>
-            <td> <a href="">Sub</a> </td>
-            <td> <a href="">Sol</a> </td>
+            <td> <a href="">Subject</a> </td>
+            <td> <a href="">Solution</a> </td>
             <td><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>C00</td>
-            <td> <a href="">Sub</a> </td>
-            <td> <a href="">Sol</a> </td>
+            <td> <a href="">Subject</a> </td>
+            <td> <a href="">Solution</a> </td>
             <td><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>C01</td>
-            <td> <a href="">Sub</a> </td>
-            <td> <a href="">Sol</a> </td>
+            <td> <a href="">Subject</a> </td>
+            <td> <a href="">Solution</a> </td>
             <td><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>C02</td>
-            <td> <a href="">Sub</a> </td>
-            <td> <a href="">Sol</a> </td>
+            <td> <a href="">Subject</a> </td>
+            <td> <a href="">Solution</a> </td>
             <td><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>C03</td>
-            <td> <a href="">Sub</a> </td>
-            <td> <a href="">Sol</a> </td>
+            <td> <a href="">Subject</a> </td>
+            <td> <a href="">Solution</a> </td>
             <td><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>C04</td>
-            <td> <a href="">Sub</a> </td>
-            <td> <a href="">Sol</a> </td>
+            <td> <a href="">Subject</a> </td>
+            <td> <a href="">Solution</a> </td>
             <td><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>C05</td>
-            <td> <a href="">Sub</a> </td>
-            <td> <a href="">Sol</a> </td>
+            <td> <a href="">Subject</a> </td>
+            <td> <a href="">Solution</a> </td>
             <td><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>C06</td>
-            <td> <a href="">Sub</a> </td>
-            <td> <a href="">Sol</a> </td>
+            <td> <a href="">Subject</a> </td>
+            <td> <a href="">Solution</a> </td>
             <td><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>c07</td>
-            <td> <a href="">Sub</a> </td>
-            <td> <a href="">Sol</a> </td>
+            <td> <a href="">Subject</a> </td>
+            <td> <a href="">Solution</a> </td>
             <td><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>C08</td>
-            <td> <a href="">Sub</a> </td>
-            <td> <a href="">Sol</a> </td>
+            <td> <a href="">Subject</a> </td>
+            <td> <a href="">Solution</a> </td>
             <td><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>C09</td>
-            <td> <a href="">Sub</a> </td>
-            <td> <a href="">Sol</a> </td>
+            <td> <a href="">Subject</a> </td>
+            <td> <a href="">Solution</a> </td>
             <td><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>Rush00</td>
-            <td> <a href="">Sub</a> </td>
-            <td> <a href="">Sol</a> </td>
+            <td> <a href="">Subject</a> </td>
+            <td> <a href="">Solution</a> </td>
             <td><img src="./srcs/assets/grade/22.png" width="26px"> ❌</td>
-            <td></td>
+            <td>I forget to exclude the negative numbers that's why i got 22. **But i fixed it now**</td>
         </tr>
         <tr>
             <td>Exam00</td>
-            <td> <a href="">Sub</a> </td>
-            <td> <a href="">Sol</a> </td>
+            <td> <a href="">Subject</a> </td>
+            <td> <a href="">Solution</a> </td>
             <td><img src="./srcs/assets/grade/100.png" width="26px"> ✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>Exam01</td>
-            <td> <a href="">Sub</a> </td>
-            <td> <a href="">Sol</a> </td>
+            <td> <a href="">Subject</a> </td>
+            <td> <a href="">Solution</a> </td>
             <td><img src="./srcs/assets/grade/80.png" width="26px"> ✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>Exam02</td>
-            <td> <a href="">Sub</a> </td>
-            <td> <a href="">Sol</a> </td>
+            <td> <a href="">Subject</a> </td>
+            <td> <a href="">Solution</a> </td>
             <td><img src="./srcs/assets/grade/84.png" width="26px"> ✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>Final Exam</td>
-            <td> <a href="">Sub</a> </td>
-            <td> <a href="">Sol</a> </td>
+            <td> <a href="">Subject</a> </td>
+            <td> <a href="">Solution</a> </td>
             <td><img src="./srcs/assets/grade/84.png" width="26px"> ✔️</td>
             <td></td>
         </tr>
