@@ -52,7 +52,7 @@ My Piscine was in the period between 18, Jul 1022 AND 12, Aug 2022. I reached Lv
             <td>Shell00</td>
             <td></td>
             <td></td>
-            <td style="color:#16C60C; font-family:Montserrat;font-weight:bold">100✔️</td>
+            <td style="color:#16C60C; font-family:Montserrat;font-weight:bold"><span style="color:blue">some *blue* text</span>100✔️</td>
             <td></td>
         </tr>
         <tr>
