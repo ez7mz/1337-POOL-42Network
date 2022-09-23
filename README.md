@@ -49,7 +49,7 @@ My Piscine was in the period between 18, Jul 1022 AND 12, Aug 2022. I reached �
             <th>Description</th>
         </thead>
         <tr>
-            <td>Shell00</td>
+            <td align="center">Shell00</td>
             <td></td>
             <td></td>
             <td ><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
