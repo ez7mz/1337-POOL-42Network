@@ -136,7 +136,7 @@ My Piscine was in the period between 18, Jul 1022 AND 12, Aug 2022. I reached Lv
             <td>Rush00</td>
             <td></td>
             <td></td>
-            <td><b>22</b>❌</td>
+            <td><img src="./srcs/assets/grade/22.png" width="26px"> ❌</td>
             <td></td>
         </tr>
         <tr>
@@ -150,7 +150,7 @@ My Piscine was in the period between 18, Jul 1022 AND 12, Aug 2022. I reached Lv
             <td>Exam01</td>
             <td></td>
             <td></td>
-            <td ><img src="./srcs/assets/grade/84.png" width="26px"> ✔️</td>
+            <td ><img src="./srcs/assets/grade/80.png" width="26px"> ✔️</td>
             <td></td>
         </tr>
         <tr>
