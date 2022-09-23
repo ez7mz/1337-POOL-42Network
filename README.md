@@ -143,28 +143,28 @@ My Piscine was in the period between 18, Jul 1022 AND 12, Aug 2022. I reached Lv
             <td>Exam00</td>
             <td></td>
             <td></td>
-            <td ><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
+            <td ><img src="./srcs/assets/grade/100.png" width="26px"> ✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>Exam01</td>
             <td></td>
             <td></td>
-            <td ><img src="" width="96px">✔️</td>
+            <td ><img src="./srcs/assets/grade/84.png" width="26px"> ✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>Exam02</td>
             <td></td>
             <td></td>
-            <td ><b>84</b>✔️</td>
+            <td ><img src="./srcs/assets/grade/84.png" width="26px"> ✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>Final Exam</td>
             <td></td>
             <td></td>
-            <td ><b>84</b>✔️</td>
+            <td ><img src="./srcs/assets/grade/84.png" width="26px"> ✔️</td>
             <td></td>
         </tr>
     </table>
