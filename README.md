@@ -37,10 +37,10 @@ It was one of the best experiences of my life because of a lot of things includi
 <br>
 
 # 👨🏻‍💻 My work
-My Piscine was in the period between 18, Jul 1022 AND 12, Aug 2022. I reached Lvl 9.61 which got me Top #6 in my Piscine.
+My Piscine was in the period between 18, Jul 1022 AND 12, Aug 2022. I reached 📈 **`Lvl 9.61`** which got me **`Top #6`** ⭐ in my Piscine.
 
 <div align="center">
-    <table>
+    <table style="width:100%">
         <thead border=1>
             <th>Project Title</th>
             <th>Subject</th>
