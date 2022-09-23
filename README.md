@@ -31,12 +31,12 @@ The Piscine is an intensive, full-time, 4-week long immersion on the 1337 campus
 
 <br>
 
-# My Experience
+# 🎲 My Experience
 It was one of the best experiences of my life because of a lot of things including the learning side and enjoying side. I learned a lot of stuff although I already have an experience in coding when I was there I felt like I really need more hard work to keep going, with all of that I can't forget all the fun times I spent there with some people I never thought that are even exist on earth. and the most valuable thing I learned is that Collaboration is more mush easy to reach the goal in the two ways Easy and Fast. and finally like we said in our language:  "Wast dahk kayena Lkhedma".
 
 <br>
 
-# My work
+# 👨🏻‍💻 My work
 My Piscine was in the period between 18, Jul 1022 AND 12, Aug 2022. I reached Lvl 9.61 which got me Top #6 in my Piscine.
 
 <div align="center">
@@ -52,14 +52,119 @@ My Piscine was in the period between 18, Jul 1022 AND 12, Aug 2022. I reached Lv
             <td>Shell00</td>
             <td></td>
             <td></td>
-            <td></td>
+            <td style="color:#16C60C; font-family:Montserrat;font-weight:bold">100✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>Shell01</td>
             <td></td>
             <td></td>
+            <td style="color:#16C60C; font-family:Montserrat;font-weight:bold">100✔️</td>
             <td></td>
+        </tr>
+        <tr>
+            <td>C00</td>
+            <td></td>
+            <td></td>
+            <td style="color:#16C60C; font-family:Montserrat;font-weight:bold">100✔️</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>C01</td>
+            <td></td>
+            <td></td>
+            <td style="color:#16C60C; font-family:Montserrat;font-weight:bold">100✔️</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>C02</td>
+            <td></td>
+            <td></td>
+            <td style="color:#16C60C; font-family:Montserrat;font-weight:bold">100✔️</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>C03</td>
+            <td></td>
+            <td></td>
+            <td style="color:#16C60C; font-family:Montserrat;font-weight:bold">100✔️</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>C04</td>
+            <td></td>
+            <td></td>
+            <td style="color:#16C60C; font-family:Montserrat;font-weight:bold">100✔️</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>C05</td>
+            <td></td>
+            <td></td>
+            <td style="color:#16C60C; font-family:Montserrat;font-weight:bold">100✔️</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>C06</td>
+            <td></td>
+            <td></td>
+            <td style="color:#16C60C; font-family:Montserrat;font-weight:bold">100✔️</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>c07</td>
+            <td></td>
+            <td></td>
+            <td style="color:#16C60C; font-family:Montserrat;font-weight:bold">100✔️</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>C08</td>
+            <td></td>
+            <td></td>
+            <td style="color:#16C60C; font-family:Montserrat;font-weight:bold">100✔️</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>C09</td>
+            <td></td>
+            <td></td>
+            <td style="color:#16C60C; font-family:Montserrat;font-weight:bold">100✔️</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Rush00</td>
+            <td></td>
+            <td></td>
+            <td style="color:#F03A17; font-family:Montserrat;font-weight:bold">22❌</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Exam00</td>
+            <td></td>
+            <td></td>
+            <td style="color:#16C60C; font-family:Montserrat;font-weight:bold">100✔️</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Exam01</td>
+            <td></td>
+            <td></td>
+            <td style="color:#16C60C; font-family:Montserrat;font-weight:bold">80✔️</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Exam02</td>
+            <td></td>
+            <td></td>
+            <td style="color:#16C60C; font-family:Montserrat;font-weight:bold">84✔️</td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Final Exam</td>
+            <td></td>
+            <td></td>
+            <td style="color:#16C60C; font-family:Montserrat;font-weight:bold">84✔️</td>
             <td></td>
         </tr>
     </table>
