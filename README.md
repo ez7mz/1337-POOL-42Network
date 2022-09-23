@@ -52,119 +52,119 @@ My Piscine was in the period between 18, Jul 1022 AND 12, Aug 2022. I reached Lv
             <td>Shell00</td>
             <td></td>
             <td></td>
-            <td style="color:#16C60C; font-family:Montserrat;font-weight:bold">100✔️</td>
+            <td ><b>84</b>✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>Shell01</td>
             <td></td>
             <td></td>
-            <td style="color:#16C60C; font-family:Montserrat;font-weight:bold">100✔️</td>
+            <td ><b></b>✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>C00</td>
             <td></td>
             <td></td>
-            <td style="color:#16C60C; font-family:Montserrat;font-weight:bold">100✔️</td>
+            <td ><b>84</b>✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>C01</td>
             <td></td>
             <td></td>
-            <td style="color:#16C60C; font-family:Montserrat;font-weight:bold">100✔️</td>
+            <td ><b>84</b>✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>C02</td>
             <td></td>
             <td></td>
-            <td style="color:#16C60C; font-family:Montserrat;font-weight:bold">100✔️</td>
+            <td ><b>84</b>✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>C03</td>
             <td></td>
             <td></td>
-            <td style="color:#16C60C; font-family:Montserrat;font-weight:bold">100✔️</td>
+            <td ><b>84</b>✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>C04</td>
             <td></td>
             <td></td>
-            <td style="color:#16C60C; font-family:Montserrat;font-weight:bold">100✔️</td>
+            <td ><b>84</b>✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>C05</td>
             <td></td>
             <td></td>
-            <td style="color:#16C60C; font-family:Montserrat;font-weight:bold">100✔️</td>
+            <td ><b>84</b>✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>C06</td>
             <td></td>
             <td></td>
-            <td style="color:#16C60C; font-family:Montserrat;font-weight:bold">100✔️</td>
+            <td ><b>84</b>✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>c07</td>
             <td></td>
             <td></td>
-            <td style="color:#16C60C; font-family:Montserrat;font-weight:bold">100✔️</td>
+            <td ><b>84</b>✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>C08</td>
             <td></td>
             <td></td>
-            <td style="color:#16C60C; font-family:Montserrat;font-weight:bold">100✔️</td>
+            <td ><b>84</b>✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>C09</td>
             <td></td>
             <td></td>
-            <td style="color:#16C60C; font-family:Montserrat;font-weight:bold">100✔️</td>
+            <td><b>84</b>✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>Rush00</td>
             <td></td>
             <td></td>
-            <td style="color:#F03A17; font-family:Montserrat;font-weight:bold">22❌</td>
+            <td><b>22</b>❌</td>
             <td></td>
         </tr>
         <tr>
             <td>Exam00</td>
             <td></td>
             <td></td>
-            <td style="color:#16C60C; font-family:Montserrat;font-weight:bold">100✔️</td>
+            <td ><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>Exam01</td>
             <td></td>
             <td></td>
-            <td style="color:#16C60C; font-family:Montserrat;font-weight:bold">80✔️</td>
+            <td ><img src="" width="96px">✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>Exam02</td>
             <td></td>
             <td></td>
-            <td style="color:#16C60C; font-family:Montserrat;font-weight:bold">84✔️</td>
+            <td ><b>84</b>✔️</td>
             <td></td>
         </tr>
         <tr>
             <td>Final Exam</td>
             <td></td>
             <td></td>
-            <td style="color:#16C60C; font-family:Montserrat;font-weight:bold">84✔️</td>
+            <td ><b>84</b>✔️</td>
             <td></td>
         </tr>
     </table>
