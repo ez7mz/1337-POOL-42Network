@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <em>This repo contains all academic projects that i did in my education path</em>
+    <em>This repository contains all my work-projects during the 1337-42Network pool</em>
 </p>
 
 <p align="center">
@@ -22,11 +22,52 @@
 </p>
 
 ---
+<br>
 
-## About
-MESRAR Hamza 22 years old, 2<sup>nd</sup> year IT and Data Engineering Student <a href="https://ensak.usms.ac.ma/ensak/" target="_blank">@ENSAKH</a> passionate by Data Analysis and machine learning, or rather any coding industry.
+# 🏊🏻‍♂️ Pool Or Piscine
+The Piscine is an intensive, full-time, 4-week long immersion on the 1337 campus with other eligible candidates like yourself. During this month, we will test your motivation to become a world-class programmer, find out if you are #BornToCode and if you can excel in our peer-to-peer learning environment. The Piscine requires your full-time commitment.
 
-## How to get Documents
+⚠️ The Piscine is the only way to become a student at 1337 and be fully admitted to the course.
+
+<br>
+
+# My Experience
+It was one of the best experiences of my life because of a lot of things including the learning side and enjoying side. I learned a lot of stuff although I already have an experience in coding when I was there I felt like I really need more hard work to keep going, with all of that I can't forget all the fun times I spent there with some people I never thought that are even exist on earth. and the most valuable thing I learned is that Collaboration is more mush easy to reach the goal in the two ways Easy and Fast. and finally like we said in our language:  "Wast dahk kayena Lkhedma".
+
+<br>
+
+# My work
+My Piscine was in the period between 18, Jul 1022 AND 12, Aug 2022. I reached Lvl 9.61 which got me Top #6 in my Piscine.
+
+<div align="center">
+    <table>
+        <thead border=1>
+            <th>Project Title</th>
+            <th>Subject</th>
+            <th>Solution</th>
+            <th>Grade</th>
+            <th>Description</th>
+        </thead>
+        <tr>
+            <td>Shell00</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td>Shell01</td>
+            <td></td>
+            <td></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+</div>
+
+<br>
+
+# How to get Documents
 <div class="termy">
 
 ```console
