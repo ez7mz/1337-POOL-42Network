@@ -50,122 +50,123 @@ My Piscine was in the period between 18, Jul 1022 AND 12, Aug 2022. I reached �
         </thead>
         <tr>
             <td align="center">Shell00</td>
-            <td></td>
-            <td></td>
+            <td align="center"> <a href="">Sub</a> </td>
+            <td align="center"> <a href="">Sol</a> </td>
             <td ><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
-            <td></td>
+            <td align="center"></td>
         </tr>
         <tr>
-            <td>Shell01</td>
-            <td></td>
-            <td></td>
-            <td ><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
-            <td></td>
+            <td align="center">Shell01</td>
+            <td align="center"> <a href="">Sub</a> </td>
+            <td align="center"> <a href="">Sol</a> </td>
+            <td align="center"><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
+            <td align="center"></td>
         </tr>
         <tr>
-            <td>C00</td>
-            <td></td>
-            <td></td>
-            <td ><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
-            <td></td>
+            <td align="center">C00</td>
+            <td align="center"> <a href="">Sub</a> </td>
+            <td align="center"> <a href="">Sol</a> </td>
+            <td align="center"><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
+            <td align="center"></td>
         </tr>
         <tr>
-            <td>C01</td>
-            <td></td>
-            <td></td>
-            <td ><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
-            <td></td>
+            <td align="center">C01</td>
+            <td align="center"> <a href="">Sub</a> </td>
+            <td align="center"> <a href="">Sol</a> </td>
+            <td align="center"><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
+            <td align="center"></td>
         </tr>
         <tr>
-            <td>C02</td>
-            <td></td>
-            <td></td>
-            <td ><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
-            <td></td>
+            <td align="center">C02</td>
+            <td align="center"> <a href="">Sub</a> </td>
+            <td align="center"> <a href="">Sol</a> </td>
+            <td align="center"><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
+            <td align="center"></td>
         </tr>
         <tr>
-            <td>C03</td>
-            <td></td>
-            <td></td>
-            <td ><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
-            <td></td>
+            <td align="center">C03</td>
+            <td align="center"> <a href="">Sub</a> </td>
+            <td align="center"> <a href="">Sol</a> </td>
+            <td align="center"><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
+            <td align="center"></td>
         </tr>
         <tr>
-            <td>C04</td>
-            <td></td>
-            <td></td>
-            <td ><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
-            <td></td>
+            <td align="center">C04</td>
+            <td align="center"> <a href="">Sub</a> </td>
+            <td align="center"> <a href="">Sol</a> </td>
+            <td align="center"><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
+            <td align="center"></td>
         </tr>
         <tr>
-            <td>C05</td>
-            <td></td>
-            <td></td>
-            <td ><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
-            <td></td>
+            <td align="center">C05</td>
+            <td align="center"> <a href="">Sub</a> </td>
+            <td align="center"> <a href="">Sol</a> </td>
+            <td align="center"><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
+            <td align="center"></td>
         </tr>
         <tr>
-            <td>C06</td>
-            <td></td>
-            <td></td>
-            <td ><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
-            <td></td>
+            <td align="center">C06</td>
+            <td align="center"></td>
+            <td align="center"> <a href="">Sub</a> </td>
+            <td align="center"> <a href="">Sol</a> </td>
+            <td align="center"><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
+            <td align="center"></td>
         </tr>
         <tr>
-            <td>c07</td>
-            <td></td>
-            <td></td>
-            <td ><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
-            <td></td>
+            <td align="center">c07</td>
+            <td align="center"> <a href="">Sub</a> </td>
+            <td align="center"> <a href="">Sol</a> </td>
+            <td align="center"><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
+            <td align="center"></td>
         </tr>
         <tr>
-            <td>C08</td>
-            <td></td>
-            <td></td>
-            <td ><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
-            <td></td>
+            <td align="center">C08</td>
+            <td align="center"> <a href="">Sub</a> </td>
+            <td align="center"> <a href="">Sol</a> </td>
+            <td align="center"><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
+            <td align="center"></td>
         </tr>
         <tr>
-            <td>C09</td>
-            <td></td>
-            <td></td>
-            <td><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
-            <td></td>
+            <td align="center">C09</td>
+            <td align="center"> <a href="">Sub</a> </td>
+            <td align="center"> <a href="">Sol</a> </td>
+            <td align="center"><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
+            <td align="center"></td>
         </tr>
         <tr>
-            <td>Rush00</td>
-            <td></td>
-            <td></td>
-            <td><img src="./srcs/assets/grade/22.png" width="26px"> ❌</td>
-            <td></td>
+            <td align="center">Rush00</td>
+            <td align="center"> <a href="">Sub</a> </td>
+            <td align="center"> <a href="">Sol</a> </td>
+            <td align="center"><img src="./srcs/assets/grade/22.png" width="26px"> ❌</td>
+            <td align="center"></td>
         </tr>
         <tr>
-            <td>Exam00</td>
-            <td></td>
-            <td></td>
-            <td ><img src="./srcs/assets/grade/100.png" width="26px"> ✔️</td>
-            <td></td>
+            <td align="center">Exam00</td>
+            <td align="center"> <a href="">Sub</a> </td>
+            <td align="center"> <a href="">Sol</a> </td>
+            <td align="center"><img src="./srcs/assets/grade/100.png" width="26px"> ✔️</td>
+            <td align="center"></td>
         </tr>
         <tr>
-            <td>Exam01</td>
-            <td></td>
-            <td></td>
-            <td ><img src="./srcs/assets/grade/80.png" width="26px"> ✔️</td>
-            <td></td>
+            <td align="center">Exam01</td>
+            <td align="center"> <a href="">Sub</a> </td>
+            <td align="center"> <a href="">Sol</a> </td>
+            <td align="center"><img src="./srcs/assets/grade/80.png" width="26px"> ✔️</td>
+            <td align="center"></td>
         </tr>
         <tr>
-            <td>Exam02</td>
-            <td></td>
-            <td></td>
-            <td ><img src="./srcs/assets/grade/84.png" width="26px"> ✔️</td>
-            <td></td>
+            <td align="center">Exam02</td>
+            <td align="center"> <a href="">Sub</a> </td>
+            <td align="center"> <a href="">Sol</a> </td>
+            <td align="center"><img src="./srcs/assets/grade/84.png" width="26px"> ✔️</td>
+            <td align="center"></td>
         </tr>
         <tr>
-            <td>Final Exam</td>
-            <td></td>
-            <td></td>
-            <td ><img src="./srcs/assets/grade/84.png" width="26px"> ✔️</td>
-            <td></td>
+            <td align="center">Final Exam</td>
+            <td align="center"> <a href="">Sub</a> </td>
+            <td align="center"> <a href="">Sol</a> </td>
+            <td align="center"><img src="./srcs/assets/grade/84.png" width="26px"> ✔️</td>
+            <td align="center"></td>
         </tr>
     </table>
 </div>
