@@ -106,7 +106,6 @@ My Piscine was in the period between 18, Jul 1022 AND 12, Aug 2022. I reached �
         </tr>
         <tr>
             <td align="center">C06</td>
-            <td align="center"></td>
             <td align="center"> <a href="">Sub</a> </td>
             <td align="center"> <a href="">Sol</a> </td>
             <td align="center"><img src="./srcs/assets/grade/100.png" width="26px">✔️</td>
