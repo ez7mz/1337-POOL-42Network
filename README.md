@@ -47,103 +47,103 @@ My Piscine was in the period between 📅 **18, Jul 1022** AND 📅 **12, Aug 20
         <tr>
             <td>Shell00</td>
             <td> <a href="">Subject</a> </td>
-            <td> <a href="">Solution</a> </td>
+            <td> <a href="https://github.com/ez7mz/1337-POOL-42Network/tree/main/Solutions/Shell00">Solution</a> </td>
             <td ><img src="./srcs/assets/grade/100.png" width="45px"></td>
         </tr>
         <tr>
             <td>Shell01</td>
             <td> <a href="">Subject</a> </td>
-            <td> <a href="">Solution</a> </td>
+            <td> <a href="https://github.com/ez7mz/1337-POOL-42Network/tree/main/Solutions/Shell01">Solution</a> </td>
             <td><img src="./srcs/assets/grade/85.png" width="45px"></td>
         </tr>
         <tr>
             <td>C00</td>
             <td> <a href="">Subject</a> </td>
-            <td> <a href="">Solution</a> </td>
+            <td> <a href="https://github.com/ez7mz/1337-POOL-42Network/tree/main/Solutions/C00">Solution</a> </td>
             <td><img src="./srcs/assets/grade/85.png" width="45px"></td>
         </tr>
         <tr>
             <td>C01</td>
             <td> <a href="">Subject</a> </td>
-            <td> <a href="">Solution</a> </td>
+            <td> <a href="https://github.com/ez7mz/1337-POOL-42Network/tree/main/Solutions/C01">Solution</a> </td>
             <td><img src="./srcs/assets/grade/100.png" width="45px"></td>
         </tr>
         <tr>
             <td>C02</td>
             <td> <a href="">Subject</a> </td>
-            <td> <a href="">Solution</a> </td>
+            <td> <a href="https://github.com/ez7mz/1337-POOL-42Network/tree/main/Solutions/C02">Solution</a> </td>
             <td><img src="./srcs/assets/grade/85.png" width="45px"></td>
         </tr>
         <tr>
             <td>C03</td>
             <td> <a href="">Subject</a> </td>
-            <td> <a href="">Solution</a> </td>
+            <td> <a href="https://github.com/ez7mz/1337-POOL-42Network/tree/main/Solutions/C03">Solution</a> </td>
             <td><img src="./srcs/assets/grade/100.png" width="45px"></td>
         </tr>
         <tr>
             <td>C04</td>
             <td> <a href="">Subject</a> </td>
-            <td> <a href="">Solution</a> </td>
+            <td> <a href="https://github.com/ez7mz/1337-POOL-42Network/tree/main/Solutions/C04">Solution</a> </td>
             <td><img src="./srcs/assets/grade/70.png" width="45px"></td>
         </tr>
         <tr>
             <td>C05</td>
             <td> <a href="">Subject</a> </td>
-            <td> <a href="">Solution</a> </td>
+            <td> <a href="https://github.com/ez7mz/1337-POOL-42Network/tree/main/Solutions/C05">Solution</a> </td>
             <td><img src="./srcs/assets/grade/80.png" width="45px"></td>
         </tr>
         <tr>
             <td>C06</td>
             <td> <a href="">Subject</a> </td>
-            <td> <a href="">Solution</a> </td>
+            <td> <a href=""https://github.com/ez7mz/1337-POOL-42Network/tree/main/Solutions/C06>Solution</a> </td>
             <td><img src="./srcs/assets/grade/100.png" width="45px"></td>
         </tr>
         <tr>
             <td>c07</td>
             <td> <a href="">Subject</a> </td>
-            <td> <a href="">Solution</a> </td>
+            <td> <a href="https://github.com/ez7mz/1337-POOL-42Network/tree/main/Solutions/C07">Solution</a> </td>
             <td><img src="./srcs/assets/grade/60.png" width="45px"></td>
         </tr>
         <tr>
             <td>C08</td>
             <td> <a href="">Subject</a> </td>
-            <td> <a href="">Solution</a> </td>
+            <td> <a href="https://github.com/ez7mz/1337-POOL-42Network/tree/main/Solutions/C08">Solution</a> </td>
             <td><img src="./srcs/assets/grade/100.png" width="45px"></td>
         </tr>
         <tr>
             <td>C09</td>
             <td> <a href="">Subject</a> </td>
-            <td> <a href="">Solution</a> </td>
+            <td> <a href="https://github.com/ez7mz/1337-POOL-42Network/tree/main/Solutions/C09">Solution</a> </td>
             <td><img src="./srcs/assets/grade/100.png" width="45px"></td>
         </tr>
         <tr>
             <td>Rush00</td>
             <td> <a href="">Subject</a> </td>
-            <td> <a href="">Solution</a> </td>
+            <td> <a href="https://github.com/ez7mz/1337-POOL-42Network/tree/main/Solutions/Rush00">Solution</a> </td>
             <td><img src="./srcs/assets/grade/22.png" width="45px"></td>
         </tr>
         <tr>
             <td>Exam00</td>
-            <td> <a href="">Subject</a> </td>
-            <td> <a href="">Solution</a> </td>
+            <td> -- </td>
+            <td> -- </td>
             <td><img src="./srcs/assets/grade/100.png" width="45px"> </td>
         </tr>
         <tr>
             <td>Exam01</td>
-            <td> <a href="">Subject</a> </td>
-            <td> <a href="">Solution</a> </td>
+            <td> -- </td>
+            <td> -- </td>
             <td><img src="./srcs/assets/grade/80.png" width="45px"> </td>
         </tr>
         <tr>
             <td>Exam02</td>
-            <td> <a href="">Subject</a> </td>
-            <td> <a href="">Solution</a> </td>
+            <td> -- </td>
+            <td> -- </td>
             <td><img src="./srcs/assets/grade/84.png" width="45px"> </td>
         </tr>
         <tr>
             <td>Final Exam</td>
-            <td> <a href="">Subject</a> </td>
-            <td> <a href="">Solution</a> </td>
+            <td> -- </td>
+            <td> -- </td>
             <td><img src="./srcs/assets/grade/84.png" width="45px"> </td>
         </tr>
     </table>
