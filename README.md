@@ -99,7 +99,7 @@ My Piscine was in the period between 📅 **18, Jul 1022** AND 📅 **12, Aug 20
             <td><img src="./srcs/assets/grade/100.png" width="45px"></td>
         </tr>
         <tr>
-            <td>c07</td>
+            <td>C07</td>
             <td> <a href="">Subject</a> </td>
             <td> <a href="https://github.com/ez7mz/1337-POOL-42Network/tree/main/Solutions/C07">Solution</a> </td>
             <td><img src="./srcs/assets/grade/60.png" width="45px"></td>
