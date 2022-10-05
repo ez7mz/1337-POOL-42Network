@@ -29,7 +29,7 @@ The Piscine is an intensive, full-time, 4-week long immersion on the 1337 campus
 <br>
 
 # 🎲 My Experience
-It was one of the best experiences of my life because of a lot of things including the learning side and enjoying side. I learned a lot of stuff although I already have an experience in coding when I was there I felt like I really need more hard work to keep going, with all of that I can't forget all the fun times I spent there with some people I never thought that are even exist on earth. and the most valuable thing I learned is that Collaboration is more mush easy to reach the goal in the two ways Easy and Fast. and finally like we said in our language:  `"Wast dahk kayena Lkhedma"`.
+It was one in the best experiences in my life because a lot of things including the learning side and enjoying side. I learned a lot of stuff although I already have an experience in coding when I was there I felt like I really need more hard work to keep going, with all of that I can't forget all the fun times I spent there with some people I never thought that are even exist on earth. and the most valuable thing I learned is that Collaboration is more mush easy to reach the goal in the two ways Easy and Fast. and finally like we said in our language:  `"Wast dahk kayena Lkhedma"`.
 
 <br>
 
@@ -120,7 +120,7 @@ My Piscine was in the period between 📅 **18, Jul 1022** AND 📅 **12, Aug 20
             <td>Rush00</td>
             <td> <a href="">Subject</a> </td>
             <td> <a href="">Solution</a> </td>
-            <td><img src="./srcs/assets/grade/22.png" width="26px"> ❌</td>
+            <td><img src="./srcs/assets/grade/22.png" width="26px"></td>
         </tr>
         <tr>
             <td>Exam00</td>
